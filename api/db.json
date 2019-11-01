@@ -1,9 +1,22 @@
 {
   "streams": [
     {
-      "title": "My steram",
-      "description": "First stream description",
-      "id": 1
+      "title": "With Id",
+      "description": "Stream with userId",
+      "userId": "100986478192330885836",
+      "id": 2
+    },
+    {
+      "title": "Test",
+      "description": "Test",
+      "userId": "100986478192330885836",
+      "id": 3
+    },
+    {
+      "title": "Reuse 3",
+      "description": "Reuse descriprion 2",
+      "userId": "100986478192330885836",
+      "id": 4
     }
   ]
 }
